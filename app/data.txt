@@ -1,0 +1,6 @@
+
+Aman,85
+Riya,92
+Karan,76
+Sneha,88
+John,95
